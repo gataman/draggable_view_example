@@ -1,3 +1,3 @@
 # draggable_view_example
 
-A new Flutter project.
+![Screenshot](./screen_shoot.gif)
